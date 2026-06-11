@@ -1,3 +1,0 @@
-pageindex
-groq
-python-dotenv
